@@ -1,4 +1,4 @@
-TUTORIAL PENGGUNAAN GIT
+**TUTORIAL PENGGUNAAN GIT**
 1) Download Git, link (git-scm.com)
 
 2) Pada saat pertama kali menggunakan git, perlu dilakukan konfigurasi
