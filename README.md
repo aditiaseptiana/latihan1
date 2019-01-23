@@ -5,7 +5,6 @@
 user.name dan user.email
  Config Global Repository
 {$ git config --global user.name “nama_user”
-
 $ git config --global user.email “nama_user” }
 
 3) Buat direktory project praktikum pertama dengan nama latihan1
