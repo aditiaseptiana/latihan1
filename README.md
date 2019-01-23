@@ -4,19 +4,19 @@
 2) Pada saat pertama kali menggunakan git, perlu dilakukan konfigurasi
 user.name dan user.email
  Config Global Repository
-{$ git config --global user.name “nama_user”
-$ git config --global user.email “nama_user” }
+{$ git config --global user.name “nama_user”}
+{$ git config --global user.email “nama_user” }
 
 3) Buat direktory project praktikum pertama dengan nama latihan1
-{ $ mkdir latihan1
-$ cd latihan1 }
+{ $ mkdir latihan1}
+{$ cd latihan1 }
 
 4) Membuat Reposiory Local
 { $ git init }
 
 5) Menambahkan File Baru Pada Repository
-{ $ echo "#latihan1" >> README.md 
-$ git add README.md  }
+{ $ echo "#latihan1" >> README.md }
+{$ git add README.md  }
 
 6) Simpan Perubahan Ke Dalam Database
 { $git commit -m "File Pertama Saya" }
